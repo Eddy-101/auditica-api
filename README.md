@@ -1,9 +1,10 @@
 # AUDITICA API
 Requerimientos para esta api:
-    - python o python3
-    - pip o pip3
-    - nodejs (opcional pero recomendado)
-    - Postgresql
+    <ul>
+        <li>python o python3</li>
+        <li>pip o pip3</li>
+        <li>Postgresql</li>
+    </ul>
 
 ---
 
